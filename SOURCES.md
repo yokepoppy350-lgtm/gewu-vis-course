@@ -9,14 +9,14 @@
 | 官方教程 | [Observable：Reshaping data for D3 and Plot](https://old.observablehq.com/blog/reshaping-data-plot-d3) | 2025-06-26 发布 | 宽长转换、聚合与嵌套数据参考 |
 | 官方文档 | [D3 Getting Started](https://d3js.org/getting-started) | 未明示更新日；当前维护页面 | 比例尺、SVG 与坐标轴 API；本站固定 D3 7.9.0 |
 | 技术文档 | [MDN SVG 中文入门](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorials/SVG_from_scratch/Getting_started) | 2025-06-24 更新 | SVG 元素与渲染顺序参考 |
-| 作者素材 | [Kenney Tiny Farm](https://kenney.nl/assets/tiny-farm) | 1.0，2026 年发布（未明示月日） | 首页树木 tile_0015 和幼苗 tile_0080；CC0 |
+| 作者素材 | [Kenney Tiny Farm](https://kenney.nl/assets/tiny-farm) | 1.0，2026 年发布（未明示月日） | 旧版树木和幼苗；当前页面不引用，保留 CC0 许可 |
 | 教师资料 | [李昕《可视化导论》](https://cinger007.github.io/vis/) | 未统一标注更新日 | 原课程五章结构与完整讲义入口 |
 | 经典工具 | [ColorBrewer 2.0](https://colorbrewer2.org/) | 未明示更新日 | 色板分类补充参考；不列作近期教程 |
 
 ## 当前本地素材
 
 - `assets/vis-mark.svg`：2026-10-17 原创点阵标识。
-- 首页单位图和连续图：原创 D3/SVG，固定手工教学数据。每个单位格精确对应 2 本书。
+- 编码示例页单位图和连续图：原创 D3/SVG，固定手工教学数据。每个单位格精确对应 2 本书。
 - `assets/d3.v7.min.js`：D3 7.9.0（ISC），本地加载；许可 `assets/D3-LICENSE.txt`。
 - 旧版猫、树木等文件不再被当前页面引用，仅保留版本追溯。当前宠物 UI 与交互逻辑已删除。
 
