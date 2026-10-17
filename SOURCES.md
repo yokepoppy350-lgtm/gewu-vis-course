@@ -13,13 +13,12 @@
 | 教师资料 | [李昕《可视化导论》](https://cinger007.github.io/vis/) | 未统一标注更新日 | 原课程五章结构与完整讲义入口 |
 | 经典工具 | [ColorBrewer 2.0](https://colorbrewer2.org/) | 未明示更新日 | 色板分类补充参考；不列作近期教程 |
 
-## 本地素材
+## 当前本地素材
 
-- `assets/tree.png`、`assets/sprout.png`：Kenney Tiny Farm 1.0，16 × 16，原始许可 `assets/Kenney-Tiny-Farm-License.txt`。仅取上述两张切片，未使用外部热链。
-- `assets/cat.svg`：本站原创的栗子像素猫；2026-10-16 创建。
-- 首页数据花园：本站原创 SVG 组合，使用上述 Kenney 小素材点缀。
-- `assets/d3.v7.min.js`：D3 7.9.0，ISC 许可，原始许可 `assets/D3-LICENSE.txt`，来源 https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js 。固定版本用于重现，不把依赖版本号解释为教程更新时间。
-- `assets/mushroom.png` 及 `assets/Kenney-License.txt`：早期设计草稿使用的 Tiny Town 旧素材及许可，当前页面不引用；保留用于追溯。
+- `assets/vis-mark.svg`：2026-10-17 原创点阵标识。
+- 首页单位图和连续图：原创 D3/SVG，固定手工教学数据。每个单位格精确对应 2 本书。
+- `assets/d3.v7.min.js`：D3 7.9.0（ISC），本地加载；许可 `assets/D3-LICENSE.txt`。
+- 旧版猫、树木等文件不再被当前页面引用，仅保留版本追溯。当前宠物 UI 与交互逻辑已删除。
 
 ## 教学数据
 
@@ -36,3 +35,7 @@
 - [MDN SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)：参考无衬线文档排版、层级标题和主题目录。
 
 本站没有使用上述机构的品牌标识，也不表示官方认可。
+
+## 2026-10-17 界面修订
+
+当前界面改为原创数据单位图与像素风控件，不再引用旧版 Kenney 树木、幼苗、蘑菇或猫 SVG。旧文件仅保留追溯。设计参考为用户指定的 Echo-Tail、鱼皮与 StyleKit 页面，链接、具体采用内容及取舍详见 DESIGN.md。它们不列作可视化学科的权威教程。
